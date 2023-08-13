@@ -1,10 +1,8 @@
-# YouTube Lite
+# YouTube Clone
 
-YouTube Lite is a lightweight web application that allows users to browse and watch videos. It provides a simplified and intuitive interface for a seamless video watching experience.
+YouTube Clone is a lightweight web application that allows users to browse and watch videos. It provides a simplified and intuitive interface for a seamless video watching experience.
 
-### Deployed Application [See Here](https://youtube-piy.netlify.app/)
-
-![youtube-clone](https://github.com/piyushkumarg/YouTube-Clone/assets/83285872/49cebb77-6052-478a-b521-c63fd02d5bec)
+### Deployed Application [See Here](https://youtube9708.netlify.app/)
 
 ## Features
 
@@ -17,12 +15,12 @@ YouTube Lite is a lightweight web application that allows users to browse and wa
 ## Getting Started
 To get started  you can simply clone this `YouTube-lite` repository and install the dependencies.
 
-Clone the `YouTube-lite` repository using git:
+Clone the `YouTube-Clone` repository using git:
 
 ```bash
-git clone git clone https://github.com/piyushkumarg/YouTube-Clone
+git clone git clone https://github.com/amrahul14/youtube_clone
 
-cd ecommerce-frontend
+cd youtube_clone
 ```
 
 Install dependencies with this command:
